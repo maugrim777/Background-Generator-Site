@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maugrim777/Background-Generator-Site/issues"
   },
-  "homepage": "https://github.com/maugrim777/Background-Generator-Site#readme"
+  "homepage": "https://github.com/maugrim777/Background-Generator-Site#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
